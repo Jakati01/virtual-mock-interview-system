@@ -1,0 +1,563 @@
+[
+  {
+    "question": "If a train travels 60 miles in 1.5 hours, what is its average speed?",
+    "options": ["40 mph", "45 mph", "50 mph", "60 mph"],
+    "correct_answer": "40 mph"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": ["15", "20", "30", "45"],
+    "correct_answer": "30"
+  },
+  {
+    "question": "A bat and a ball together cost $1.10. The bat costs $1.00 more than the ball. How much does the ball cost?",
+    "options": ["$0.05", "$0.10", "$0.15", "$0.20"],
+    "correct_answer": "$0.05"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["10", "11", "12", "13"],
+    "correct_answer": "12"
+  },
+  {
+    "question": "If 5x = 25, what is x?",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": "5"
+  },
+  {
+    "question": "What is the value of 7^2?",
+    "options": ["42", "49", "56", "64"],
+    "correct_answer": "49"
+  },
+  {
+    "question": "If a car travels 180 km in 3 hours, what is its speed?",
+    "options": ["50 km/h", "60 km/h", "70 km/h", "80 km/h"],
+    "correct_answer": "60 km/h"
+  },
+  {
+    "question": "What is 20% of 150?",
+    "options": ["25", "30", "35", "40"],
+    "correct_answer": "30"
+  },
+  {
+    "question": "Solve: 8 + 12 × 2",
+    "options": ["40", "32", "28", "24"],
+    "correct_answer": "32"
+  },
+  {
+    "question": "What is 3/4 of 200?",
+    "options": ["100", "120", "150", "180"],
+    "correct_answer": "150"
+  },
+
+  {
+    "question": "If 2x + 5 = 15, find x",
+    "options": ["3", "4", "5", "6"],
+    "correct_answer": "5"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": ["6", "9", "18", "27"],
+    "correct_answer": "27"
+  },
+  {
+    "question": "What is 10% of 500?",
+    "options": ["25", "50", "75", "100"],
+    "correct_answer": "50"
+  },
+  {
+    "question": "Solve: 100 ÷ 4",
+    "options": ["20", "25", "30", "40"],
+    "correct_answer": "25"
+  },
+  {
+    "question": "What is 9 × 9?",
+    "options": ["72", "81", "90", "99"],
+    "correct_answer": "81"
+  },
+  {
+    "question": "If a number is divisible by 2 and 3, it is divisible by?",
+    "options": ["4", "5", "6", "8"],
+    "correct_answer": "6"
+  },
+  {
+    "question": "Find the average of 10, 20, 30",
+    "options": ["10", "15", "20", "25"],
+    "correct_answer": "20"
+  },
+  {
+    "question": "What is 50% of 80?",
+    "options": ["20", "30", "40", "50"],
+    "correct_answer": "40"
+  },
+  {
+    "question": "Solve: 15 × 4",
+    "options": ["50", "55", "60", "65"],
+    "correct_answer": "60"
+  },
+  {
+    "question": "What is the next number: 2, 4, 8, 16, ?",
+    "options": ["18", "24", "32", "64"],
+    "correct_answer": "32"
+  },
+
+  {
+    "question": "What is HCF of 12 and 18?",
+    "options": ["2", "3", "6", "9"],
+    "correct_answer": "6"
+  },
+  {
+    "question": "What is LCM of 4 and 6?",
+    "options": ["12", "18", "24", "30"],
+    "correct_answer": "12"
+  },
+  {
+    "question": "Solve: 25 × 2 + 10",
+    "options": ["50", "60", "70", "80"],
+    "correct_answer": "60"
+  },
+  {
+    "question": "What is 7 × 8?",
+    "options": ["48", "54", "56", "64"],
+    "correct_answer": "56"
+  },
+  {
+    "question": "If x = 3, what is x²?",
+    "options": ["3", "6", "9", "12"],
+    "correct_answer": "9"
+  },
+  {
+    "question": "What is 1/2 of 50?",
+    "options": ["10", "15", "20", "25"],
+    "correct_answer": "25"
+  },
+  {
+    "question": "Solve: 200 - 75",
+    "options": ["100", "125", "150", "175"],
+    "correct_answer": "125"
+  },
+  {
+    "question": "What is 12 × 12?",
+    "options": ["124", "134", "144", "154"],
+    "correct_answer": "144"
+  },
+  {
+    "question": "If 6x = 36, find x",
+    "options": ["4", "5", "6", "7"],
+    "correct_answer": "6"
+  },
+  {
+    "question": "What is 90 ÷ 9?",
+    "options": ["8", "9", "10", "11"],
+    "correct_answer": "10"
+  },
+
+  {
+    "question": "What is 2^5?",
+    "options": ["16", "32", "64", "128"],
+    "correct_answer": "32"
+  },
+  {
+    "question": "Solve: 45 + 55",
+    "options": ["90", "95", "100", "105"],
+    "correct_answer": "100"
+  },
+  {
+    "question": "What is the perimeter of a square with side 5?",
+    "options": ["10", "15", "20", "25"],
+    "correct_answer": "20"
+  },
+  {
+    "question": "Area of rectangle: length 10, width 5",
+    "options": ["25", "40", "50", "60"],
+    "correct_answer": "50"
+  },
+  {
+    "question": "What is 18 × 3?",
+    "options": ["48", "54", "60", "64"],
+    "correct_answer": "54"
+  },
+  {
+    "question": "Solve: 64 ÷ 8",
+    "options": ["6", "7", "8", "9"],
+    "correct_answer": "8"
+  },
+  {
+    "question": "What is 11 × 11?",
+    "options": ["111", "121", "131", "141"],
+    "correct_answer": "121"
+  },
+  {
+    "question": "Find next: 5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "90"],
+    "correct_answer": "80"
+  },
+  {
+    "question": "What is 1000 ÷ 10?",
+    "options": ["10", "50", "100", "150"],
+    "correct_answer": "100"
+  },
+  {
+    "question": "What is 6 × 7?",
+    "options": ["36", "42", "48", "54"],
+    "correct_answer": "42"
+  },
+
+  {
+    "question": "What is 25 × 4?",
+    "options": ["80", "90", "100", "110"],
+    "correct_answer": "100"
+  },
+  {
+    "question": "Solve: 81 ÷ 9",
+    "options": ["7", "8", "9", "10"],
+    "correct_answer": "9"
+  },
+  {
+    "question": "What is 14 × 2?",
+    "options": ["24", "26", "28", "30"],
+    "correct_answer": "28"
+  },
+  {
+    "question": "Find average of 5, 10, 15, 20",
+    "options": ["10", "12.5", "15", "17.5"],
+    "correct_answer": "12.5"
+  },
+  {
+    "question": "What is 30% of 200?",
+    "options": ["40", "50", "60", "70"],
+    "correct_answer": "60"
+  },
+  {
+    "question": "Solve: 150 + 250",
+    "options": ["300", "350", "400", "450"],
+    "correct_answer": "400"
+  },
+  {
+    "question": "What is 13 × 3?",
+    "options": ["36", "39", "42", "45"],
+    "correct_answer": "39"
+  },
+  {
+    "question": "What is 7^3?",
+    "options": ["243", "343", "441", "512"],
+    "correct_answer": "343"
+  },
+  {
+    "question": "Solve: 90 - 45",
+    "options": ["35", "40", "45", "50"],
+    "correct_answer": "45"
+  },
+  {
+    "question": "What is 8 × 9?",
+    "options": ["64", "72", "81", "90"],
+    "correct_answer": "72"
+  }
+
+ ,
+  {
+    "question": "What is 16 × 2?",
+    "options": ["30", "32", "34", "36"],
+    "correct_answer": "32"
+  },
+  {
+    "question": "Solve: 144 ÷ 12",
+    "options": ["10", "11", "12", "13"],
+    "correct_answer": "12"
+  },
+  {
+    "question": "What is 5^3?",
+    "options": ["25", "75", "100", "125"],
+    "correct_answer": "125"
+  },
+  {
+    "question": "What is 45% of 200?",
+    "options": ["70", "80", "90", "100"],
+    "correct_answer": "90"
+  },
+  {
+    "question": "Solve: 72 + 28",
+    "options": ["90", "95", "100", "110"],
+    "correct_answer": "100"
+  },
+  {
+    "question": "What is 18 × 4?",
+    "options": ["64", "68", "72", "76"],
+    "correct_answer": "72"
+  },
+  {
+    "question": "What is the square root of 169?",
+    "options": ["11", "12", "13", "14"],
+    "correct_answer": "13"
+  },
+  {
+    "question": "Solve: 250 ÷ 5",
+    "options": ["40", "45", "50", "55"],
+    "correct_answer": "50"
+  },
+  {
+    "question": "What is 60% of 300?",
+    "options": ["120", "150", "180", "200"],
+    "correct_answer": "180"
+  },
+  {
+    "question": "Find next: 3, 6, 12, 24, ?",
+    "options": ["36", "40", "48", "60"],
+    "correct_answer": "48"
+  },
+
+  {
+    "question": "What is 22 × 2?",
+    "options": ["40", "42", "44", "46"],
+    "correct_answer": "44"
+  },
+  {
+    "question": "Solve: 81 + 19",
+    "options": ["90", "95", "100", "105"],
+    "correct_answer": "100"
+  },
+  {
+    "question": "What is 14 × 5?",
+    "options": ["60", "65", "70", "75"],
+    "correct_answer": "70"
+  },
+  {
+    "question": "What is 100% of 75?",
+    "options": ["50", "60", "75", "80"],
+    "correct_answer": "75"
+  },
+  {
+    "question": "Solve: 400 - 150",
+    "options": ["200", "250", "300", "350"],
+    "correct_answer": "250"
+  },
+  {
+    "question": "What is 9 × 12?",
+    "options": ["96", "108", "120", "132"],
+    "correct_answer": "108"
+  },
+  {
+    "question": "What is 1/4 of 200?",
+    "options": ["25", "40", "50", "60"],
+    "correct_answer": "50"
+  },
+  {
+    "question": "Solve: 36 ÷ 6",
+    "options": ["4", "5", "6", "7"],
+    "correct_answer": "6"
+  },
+  {
+    "question": "What is 7 × 12?",
+    "options": ["72", "84", "96", "108"],
+    "correct_answer": "84"
+  },
+  {
+    "question": "What is 13 × 4?",
+    "options": ["48", "50", "52", "56"],
+    "correct_answer": "52"
+  },
+
+  {
+    "question": "What is 200 ÷ 4?",
+    "options": ["40", "45", "50", "55"],
+    "correct_answer": "50"
+  },
+  {
+    "question": "Solve: 55 + 45",
+    "options": ["90", "95", "100", "105"],
+    "correct_answer": "100"
+  },
+  {
+    "question": "What is 15 × 6?",
+    "options": ["80", "85", "90", "95"],
+    "correct_answer": "90"
+  },
+  {
+    "question": "What is 75% of 80?",
+    "options": ["50", "55", "60", "65"],
+    "correct_answer": "60"
+  },
+  {
+    "question": "Solve: 500 ÷ 10",
+    "options": ["40", "50", "60", "70"],
+    "correct_answer": "50"
+  },
+  {
+    "question": "What is 8 × 11?",
+    "options": ["80", "88", "96", "104"],
+    "correct_answer": "88"
+  },
+  {
+    "question": "What is 3^4?",
+    "options": ["27", "64", "81", "100"],
+    "correct_answer": "81"
+  },
+  {
+    "question": "Solve: 600 - 250",
+    "options": ["300", "350", "400", "450"],
+    "correct_answer": "350"
+  },
+  {
+    "question": "What is 12 × 8?",
+    "options": ["88", "96", "104", "112"],
+    "correct_answer": "96"
+  },
+  {
+    "question": "What is 5 × 11?",
+    "options": ["45", "50", "55", "60"],
+    "correct_answer": "55"
+  },
+
+  {
+    "question": "Solve: 90 + 110",
+    "options": ["180", "190", "200", "210"],
+    "correct_answer": "200"
+  },
+  {
+    "question": "What is 17 × 2?",
+    "options": ["30", "32", "34", "36"],
+    "correct_answer": "34"
+  },
+  {
+    "question": "What is 40% of 150?",
+    "options": ["50", "60", "70", "80"],
+    "correct_answer": "60"
+  },
+  {
+    "question": "Solve: 700 ÷ 7",
+    "options": ["90", "95", "100", "105"],
+    "correct_answer": "100"
+  },
+  {
+    "question": "What is 6 × 12?",
+    "options": ["60", "66", "72", "78"],
+    "correct_answer": "72"
+  },
+  {
+    "question": "What is 11 × 9?",
+    "options": ["88", "99", "108", "121"],
+    "correct_answer": "99"
+  },
+  {
+    "question": "Solve: 320 + 180",
+    "options": ["400", "450", "500", "550"],
+    "correct_answer": "500"
+  },
+  {
+    "question": "What is 2^6?",
+    "options": ["32", "48", "64", "128"],
+    "correct_answer": "64"
+  },
+  {
+    "question": "What is 9 × 7?",
+    "options": ["56", "63", "72", "81"],
+    "correct_answer": "63"
+  },
+  {
+    "question": "Solve: 1000 - 250",
+    "options": ["700", "750", "800", "850"],
+    "correct_answer": "750"
+  },
+
+  {
+    "question": "What is 14 × 6?",
+    "options": ["72", "84", "96", "108"],
+    "correct_answer": "84"
+  },
+  {
+    "question": "What is 80% of 50?",
+    "options": ["30", "35", "40", "45"],
+    "correct_answer": "40"
+  },
+  {
+    "question": "Solve: 225 ÷ 5",
+    "options": ["40", "45", "50", "55"],
+    "correct_answer": "45"
+  },
+  {
+    "question": "What is 16 × 5?",
+    "options": ["70", "75", "80", "85"],
+    "correct_answer": "80"
+  },
+  {
+    "question": "What is 13 × 6?",
+    "options": ["72", "78", "84", "90"],
+    "correct_answer": "78"
+  },
+  {
+    "question": "Solve: 150 + 350",
+    "options": ["400", "450", "500", "550"],
+    "correct_answer": "500"
+  },
+  {
+    "question": "What is 7 × 11?",
+    "options": ["66", "77", "88", "99"],
+    "correct_answer": "77"
+  },
+  {
+    "question": "What is 10 × 12?",
+    "options": ["100", "110", "120", "130"],
+    "correct_answer": "120"
+  },
+  {
+    "question": "Solve: 480 ÷ 8",
+    "options": ["50", "55", "60", "65"],
+    "correct_answer": "60"
+  },
+  {
+    "question": "What is 25% of 400?",
+    "options": ["80", "90", "100", "110"],
+    "correct_answer": "100"
+  },
+
+  {
+    "question": "What is 18 × 5?",
+    "options": ["80", "85", "90", "95"],
+    "correct_answer": "90"
+  },
+  {
+    "question": "Solve: 900 ÷ 9",
+    "options": ["90", "95", "100", "105"],
+    "correct_answer": "100"
+  },
+  {
+    "question": "What is 4^4?",
+    "options": ["128", "256", "512", "1024"],
+    "correct_answer": "256"
+  },
+  {
+    "question": "What is 6 × 15?",
+    "options": ["80", "85", "90", "95"],
+    "correct_answer": "90"
+  },
+  {
+    "question": "Solve: 720 + 280",
+    "options": ["900", "950", "1000", "1050"],
+    "correct_answer": "1000"
+  },
+  {
+    "question": "What is 12 × 9?",
+    "options": ["96", "108", "120", "132"],
+    "correct_answer": "108"
+  },
+  {
+    "question": "What is 50% of 500?",
+    "options": ["200", "225", "250", "275"],
+    "correct_answer": "250"
+  },
+  {
+    "question": "Solve: 840 ÷ 7",
+    "options": ["110", "115", "120", "125"],
+    "correct_answer": "120"
+  },
+  {
+    "question": "What is 19 × 3?",
+    "options": ["54", "57", "60", "63"],
+    "correct_answer": "57"
+  },
+  {
+    "question": "What is 21 × 2?",
+    "options": ["40", "42", "44", "46"],
+    "correct_answer": "42"
+  }
+]
