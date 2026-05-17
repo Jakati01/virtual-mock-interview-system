@@ -112,6 +112,14 @@ Cloud deployment
 Advanced analytics
 
 #Team Contribution
-P Jagadeesh - backend dveloper 
-A Dinesh - data base mangement 
-G Kamesh - frontend developer 
+P Jagadeesh — Backend Development
+A Dinesh — Database Management
+G Kamesh — Frontend Development
+
+Project Vision
+The Virtual Mock Interview Training System using AI is designed to redefine interview preparation by combining artificial intelligence, real-world simulation, and recruiter intelligence into one unified platform.
+
+Its vision is to empower candidates with practical readiness, improve hiring efficiency for recruiters, and create a scalable ecosystem that transforms interview preparation into a measurable, data-driven professional development experience.
+
+Conclusion
+This project represents a next-generation career preparation system focused on bridging the gap between talent preparation and recruitment expectations through AI-powered innovation, structured evaluation, and scalable technical architecture.
