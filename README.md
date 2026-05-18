@@ -59,7 +59,7 @@ The platform bridges the gap between candidates and recruiters by offering an in
 - SQLAlchemy
 
 ### Database
-- SQLite / PostgreSQL
+ - PostgreSQL
 
 ### AI & Tools
 - Whisper API
