@@ -64,7 +64,7 @@ The platform bridges the gap between candidates and recruiters by offering an in
 ### AI & Tools
 - Whisper API
 - YOLO / OpenCV
-- GitHub Copilot-assisted frontend development
+- GitHub API model 
 
 ---
 
@@ -112,8 +112,8 @@ Cloud deployment
 Advanced analytics
 
 #Team Contribution
-P Jagadeesh — Backend Development
-A Dinesh — Database Management
+P Jagadeesh — Backend Development + Data base management 
+A Dinesh — Frontend Development 
 G Kamesh — Frontend Development
 
 Project Vision
